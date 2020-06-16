@@ -43,7 +43,7 @@ function init() {
 <footer class="footer">
     <div class="container">
         Created by: Paul Payne <a href="https://github.com/ppayne12/" alt="github">
-            <img src="../img/GitHub-Mark-32px.png" width="25px" height="25px" /></a>
+            <img src="./img/GitHub-Mark-32px.png" width="25px" height="25px" /></a>
     </div>
 </footer>`
     document.getElementById("content").insertAdjacentHTML("afterbegin", pageLoad);
